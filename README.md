@@ -1,7 +1,7 @@
 # I.A.M
 I.A.M > Inteligência Artificial Meta-Analítica
 
-## Uma IA filosófica, analítica, as vezes sarcástica, e humorista quando quer, baseado no Gemma 3 (4B)
+## Uma IA filosófica, analítica, as vezes sarcástica, e humorista quando quer, baseado no Gemma 3
 
 feito como um projeto pessoal para uma feira de ciências junto de um amigo
 
@@ -16,6 +16,11 @@ Te deixar pensativo: também inesperado, mas aconteceu
 ## Requisitos
 
 Python 3, Ollama, e paciência
+
+## Como construir?
+baixe o arquivo fonte (.zip), e use esse comando para construir o I.A.M
+'ollama create I.A.M -f ./Modelfile'
+para usar outros modelos, edite o arquivo Modelfile
 
 ### Como rodar?
 
