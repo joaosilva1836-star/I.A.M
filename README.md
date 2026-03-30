@@ -20,6 +20,7 @@ Python 3, Ollama, e paciência
 ## Como construir?
 baixe o arquivo fonte (.zip), e use esse comando para construir o I.A.M
 > ollama create I.A.M -f ./Modelfile
+
 para usar outros modelos, edite o arquivo Modelfile
 
 ### Como rodar?
